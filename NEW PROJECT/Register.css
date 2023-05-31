@@ -1,0 +1,33 @@
+body{background-color: aquamarine;
+ background-image: url("./iStock-494347092.jpg");
+ background-size: cover;
+     
+}
+#d1{
+    border: 2px solid black;
+    width:375px;
+    height: 480px;
+    margin: auto;
+    margin-top:200px;
+    
+    color: black;
+    font-size: larger;
+     margin-left: 500px;
+    text-align: center;
+    
+     
+  }
+  #d2{
+      margin: auto;
+      margin-left: 55px;
+      padding: 15px;
+  }
+  button{
+      margin-left: 40px;
+      border-radius: 20px;
+       
+      width: 100px;
+      height: 25px;
+      font-weight: 30px;
+  }
+  
